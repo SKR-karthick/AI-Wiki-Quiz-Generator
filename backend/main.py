@@ -66,6 +66,17 @@ async def root():
     }
 
 
+@app.get("/health", tags=["Health"])
+async def health_check():
+    """
+    Health check endpoint for deployment monitoring.
+    """
+    return {
+        "status": "healthy",
+        "service": "AI Wiki Quiz Generator API"
+    }
+
+
 @app.post("/generate_quiz", tags=["Quiz Generation"])
 async def generate_quiz_endpoint(
     request: GenerateQuizRequest,

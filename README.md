@@ -190,6 +190,31 @@ ai-quiz-generator/
 
 └── sample_data/             # Example outputs
 
+```
+
+## 🚀 Deployment
+
+See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed deployment instructions.
+
+### Quick Deploy Options:
+
+1. **Render (Recommended - Free)**
+   - Backend: Web Service
+   - Frontend: Static Site
+   - [Step-by-step guide](./DEPLOYMENT.md#option-1-deploy-to-render-recommended---free)
+
+2. **Vercel + Railway**
+   - Frontend: Vercel
+   - Backend: Railway
+   - [Instructions](./DEPLOYMENT.md#option-2-deploy-to-vercel--railway)
+
+3. **Netlify + Render**
+   - Frontend: Netlify
+   - Backend: Render
+   - [Instructions](./DEPLOYMENT.md#option-3-deploy-to-netlify--render)
+
+## License
+
 ```- **React 18**: Modern UI library   - **MySQL**:
 
 
