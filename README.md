@@ -1016,17 +1016,3 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
 npm run build
 # Deploy `dist/` folder
 ```
-
-## 📜 License
-
-MIT License - Use freely for educational purposes
-
-## 👨‍💻 Author
-
-Built as a demonstration of full-stack AI integration with modern web technologies.
-
----
-
-**Questions or Issues?** Check the API documentation at `http://localhost:8000/docs` (Swagger UI)
-
-**Ready to generate quizzes?** Start the backend and frontend servers and navigate to `http://localhost:3000`! 🚀
