@@ -1,0 +1,136 @@
+{
+  "id": 2,
+  "title": "Python (programming language)",
+  "summary": "Python is a high-level, general-purpose programming language emphasizing code readability with significant use of indentation. It supports multiple programming paradigms including structured, object-oriented, and functional programming, and has a comprehensive standard library.",
+  "key_entities": {
+    "people": [
+      "Guido van Rossum",
+      "Larry Wall",
+      "Bjarne Stroustrup"
+    ],
+    "organizations": [
+      "Python Software Foundation",
+      "Google",
+      "Dropbox",
+      "Instagram"
+    ],
+    "locations": [
+      "Netherlands",
+      "United States"
+    ]
+  },
+  "sections": [
+    "History and development",
+    "Design philosophy and features",
+    "Syntax and semantics",
+    "Libraries and frameworks",
+    "Applications and use cases"
+  ],
+  "quiz": [
+    {
+      "question": "Who created the Python programming language?",
+      "options": [
+        "Guido van Rossum",
+        "Larry Wall",
+        "Bjarne Stroustrup",
+        "James Gosling"
+      ],
+      "answer": "Guido van Rossum",
+      "difficulty": "easy",
+      "explanation": "Guido van Rossum created Python in the late 1980s and released the first version in 1991. He remained the language's lead developer until stepping down from the role of Benevolent Dictator For Life in 2018."
+    },
+    {
+      "question": "What year was Python first released?",
+      "options": [
+        "1991",
+        "1989",
+        "1995",
+        "2000"
+      ],
+      "answer": "1991",
+      "difficulty": "medium",
+      "explanation": "Python was first released in 1991 by Guido van Rossum as a successor to the ABC programming language. The language emphasized code readability and simplicity from its inception."
+    },
+    {
+      "question": "Which of the following is a core design philosophy of Python?",
+      "options": [
+        "Code readability and simplicity",
+        "Maximum execution speed",
+        "Minimal memory usage",
+        "Hardware-level control"
+      ],
+      "answer": "Code readability and simplicity",
+      "difficulty": "easy",
+      "explanation": "Python's design philosophy emphasizes code readability and simplicity, captured in the Zen of Python. The language uses significant whitespace indentation to define code blocks, making it visually clean and easy to understand."
+    },
+    {
+      "question": "What is the name of Python's package installer?",
+      "options": [
+        "pip",
+        "npm",
+        "gem",
+        "cargo"
+      ],
+      "answer": "pip",
+      "difficulty": "medium",
+      "explanation": "pip (Pip Installs Packages) is the standard package installer for Python, allowing users to install and manage additional libraries and dependencies from the Python Package Index (PyPI)."
+    },
+    {
+      "question": "Which programming paradigms does Python support?",
+      "options": [
+        "Object-oriented, functional, and procedural",
+        "Only object-oriented",
+        "Only functional",
+        "Only procedural"
+      ],
+      "answer": "Object-oriented, functional, and procedural",
+      "difficulty": "medium",
+      "explanation": "Python is a multi-paradigm programming language that supports object-oriented programming with classes, functional programming with first-class functions, and procedural programming, giving developers flexibility in how they structure their code."
+    },
+    {
+      "question": "What does 'dynamically typed' mean in the context of Python?",
+      "options": [
+        "Variable types are determined at runtime",
+        "Variables must be declared with types",
+        "Types cannot be changed",
+        "Only numeric types are supported"
+      ],
+      "answer": "Variable types are determined at runtime",
+      "difficulty": "hard",
+      "explanation": "Python is dynamically typed, meaning variable types are determined at runtime rather than compile time. This allows variables to change type during program execution and makes the language more flexible but potentially less safe than statically typed languages."
+    },
+    {
+      "question": "Which of these companies heavily uses Python in production?",
+      "options": [
+        "Google, Instagram, and Dropbox",
+        "Only small startups",
+        "No major companies",
+        "Only academic institutions"
+      ],
+      "answer": "Google, Instagram, and Dropbox",
+      "difficulty": "easy",
+      "explanation": "Many major tech companies use Python extensively in production. Google uses it for many internal tools, Instagram's backend is built on Python, and Dropbox's desktop client and server are written in Python."
+    },
+    {
+      "question": "What is the Zen of Python?",
+      "options": [
+        "A collection of guiding principles for Python design",
+        "A meditation app written in Python",
+        "The Python logo",
+        "A popular Python framework"
+      ],
+      "answer": "A collection of guiding principles for Python design",
+      "difficulty": "medium",
+      "explanation": "The Zen of Python is a collection of 19 guiding principles for writing computer programs in Python, written by Tim Peters. It can be accessed by typing 'import this' in a Python interpreter and includes aphorisms like 'Simple is better than complex' and 'Readability counts.'"
+    }
+  ],
+  "related_topics": [
+    "Guido van Rossum",
+    "Object-oriented programming",
+    "Dynamic programming language",
+    "Python Package Index",
+    "CPython"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+  "created_at": "2025-10-26T14:30:00"
+}

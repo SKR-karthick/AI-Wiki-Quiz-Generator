@@ -1,0 +1,139 @@
+{
+  "id": 3,
+  "title": "Climate change",
+  "summary": "Climate change refers to long-term shifts in global or regional climate patterns, particularly from the mid-20th century onwards. It is primarily caused by increased levels of atmospheric greenhouse gases produced by human activities such as burning fossil fuels, deforestation, and industrial processes. The effects include rising global temperatures, melting ice caps, sea level rise, and more extreme weather events.",
+  "key_entities": {
+    "people": [
+      "Svante Arrhenius",
+      "Charles David Keeling",
+      "James Hansen",
+      "Michael E. Mann"
+    ],
+    "organizations": [
+      "Intergovernmental Panel on Climate Change (IPCC)",
+      "United Nations Framework Convention on Climate Change (UNFCCC)",
+      "National Oceanic and Atmospheric Administration (NOAA)",
+      "World Meteorological Organization"
+    ],
+    "locations": [
+      "Arctic",
+      "Antarctica",
+      "Greenland",
+      "Pacific Islands"
+    ]
+  },
+  "sections": [
+    "Causes of climate change",
+    "Greenhouse gas emissions",
+    "Effects and impacts",
+    "Mitigation strategies",
+    "International agreements"
+  ],
+  "quiz": [
+    {
+      "question": "What is the primary cause of current climate change?",
+      "options": [
+        "Human activities increasing greenhouse gases",
+        "Natural solar cycles",
+        "Volcanic eruptions",
+        "Earth's orbital changes"
+      ],
+      "answer": "Human activities increasing greenhouse gases",
+      "difficulty": "easy",
+      "explanation": "The overwhelming scientific consensus is that current climate change is primarily caused by human activities that increase atmospheric greenhouse gas concentrations, particularly through burning fossil fuels, deforestation, and industrial processes."
+    },
+    {
+      "question": "Which greenhouse gas is most abundantly produced by human activities?",
+      "options": [
+        "Carbon dioxide (CO2)",
+        "Methane (CH4)",
+        "Nitrous oxide (N2O)",
+        "Water vapor (H2O)"
+      ],
+      "answer": "Carbon dioxide (CO2)",
+      "difficulty": "easy",
+      "explanation": "Carbon dioxide is the most abundant greenhouse gas produced by human activities, primarily from burning fossil fuels for energy and transportation. While other gases like methane have stronger warming effects, CO2 is produced in much larger quantities."
+    },
+    {
+      "question": "What is the Paris Agreement?",
+      "options": [
+        "An international treaty to limit global warming",
+        "A climate research organization",
+        "A renewable energy company",
+        "A weather monitoring system"
+      ],
+      "answer": "An international treaty to limit global warming",
+      "difficulty": "medium",
+      "explanation": "The Paris Agreement is a legally binding international treaty on climate change, adopted in 2015. Its goal is to limit global warming to well below 2°C, preferably to 1.5°C, compared to pre-industrial levels."
+    },
+    {
+      "question": "What does IPCC stand for?",
+      "options": [
+        "Intergovernmental Panel on Climate Change",
+        "International Program for Climate Control",
+        "Independent Panel on Carbon Capture",
+        "Institute for Planetary Climate Change"
+      ],
+      "answer": "Intergovernmental Panel on Climate Change",
+      "difficulty": "medium",
+      "explanation": "The IPCC (Intergovernmental Panel on Climate Change) is the United Nations body responsible for assessing the science related to climate change. It provides regular comprehensive scientific assessments on climate change, its implications, and potential future risks."
+    },
+    {
+      "question": "Which region is experiencing the fastest warming due to climate change?",
+      "options": [
+        "The Arctic",
+        "The Sahara Desert",
+        "The Amazon Rainforest",
+        "The Pacific Ocean"
+      ],
+      "answer": "The Arctic",
+      "difficulty": "hard",
+      "explanation": "The Arctic is warming approximately twice as fast as the global average, a phenomenon known as Arctic amplification. This rapid warming is causing dramatic ice melt, permafrost thaw, and ecosystem changes that have global implications."
+    },
+    {
+      "question": "What is meant by 'carbon neutrality'?",
+      "options": [
+        "Balancing carbon emissions with carbon removal",
+        "Eliminating all carbon from the atmosphere",
+        "Using only renewable energy",
+        "Planting trees in cities"
+      ],
+      "answer": "Balancing carbon emissions with carbon removal",
+      "difficulty": "medium",
+      "explanation": "Carbon neutrality, or net-zero emissions, means balancing the amount of greenhouse gases emitted with an equivalent amount removed from the atmosphere. This can be achieved through reducing emissions and using carbon capture or natural carbon sinks like forests."
+    },
+    {
+      "question": "How much has global average temperature increased since pre-industrial times?",
+      "options": [
+        "Approximately 1.1°C",
+        "Approximately 0.3°C",
+        "Approximately 2.5°C",
+        "Approximately 5.0°C"
+      ],
+      "answer": "Approximately 1.1°C",
+      "difficulty": "hard",
+      "explanation": "Global average temperatures have increased by approximately 1.1°C since pre-industrial times (1850-1900). While this may seem small, it has significant impacts on weather patterns, sea levels, and ecosystems worldwide."
+    },
+    {
+      "question": "Which sector is the largest contributor to global greenhouse gas emissions?",
+      "options": [
+        "Energy production and use",
+        "Agriculture",
+        "Transportation",
+        "Waste management"
+      ],
+      "answer": "Energy production and use",
+      "difficulty": "medium",
+      "explanation": "Energy production and use (including electricity, heat, and other energy) is the largest contributor to global greenhouse gas emissions, accounting for about 73% of total emissions. This includes burning fossil fuels for electricity generation, heating, and industrial processes."
+    }
+  ],
+  "related_topics": [
+    "Global warming",
+    "Greenhouse effect",
+    "Renewable energy",
+    "Carbon footprint",
+    "Sustainable development"
+  ],
+  "url": "https://en.wikipedia.org/wiki/Climate_change",
+  "created_at": "2025-10-26T15:45:00"
+}
